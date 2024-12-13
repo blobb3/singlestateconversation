@@ -43,6 +43,9 @@ Follow the 9 steps below to create a chatbot and deploy it on pythonanywhere.
 9. Access your chatbot by entering the URL into your browser.\
 https://[PYTHONANYWHERE_USERNAME].pythonanywhere.com/[type_id]/[user_id]/chat
 
+https://heinejan.pythonanywhere.com/9374a3c4/3b3bd93c/chat
+
+
 #### If something doesn't work as expected
 - Reload your Web Application:\
 Navigate to your web application (in the Web tab) and press the green button to reload it (required for all changes except for content in folder database/ and static/)
