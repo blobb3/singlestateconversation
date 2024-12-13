@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, render_template, request
 
-from chatbot.chatbot import Chatbot
+from chatbot.openai import Chatbot
 
 PYTHONANYWHERE_USERNAME = "heinejan"
 PYTHONANYWHERE_WEBAPPNAME = "mysite"
