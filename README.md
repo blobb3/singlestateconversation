@@ -44,6 +44,10 @@ Follow the 9 steps below to create a chatbot and deploy it on pythonanywhere.
 https://[PYTHONANYWHERE_USERNAME].pythonanywhere.com/[type_id]/[user_id]/chat
 
 https://heinejan.pythonanywhere.com/9374a3c4/3b3bd93c/chat
+https://heinejan.pythonanywhere.com/c48a13d7/fe6d944d/chat
+
+    type_id="c48a13d7",
+    user_id="fe6d944d",
 
 
 #### If something doesn't work as expected
