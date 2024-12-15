@@ -45,9 +45,12 @@ https://[PYTHONANYWHERE_USERNAME].pythonanywhere.com/[type_id]/[user_id]/chat
 
 https://heinejan.pythonanywhere.com/9374a3c4/3b3bd93c/chat
 https://heinejan.pythonanywhere.com/c48a13d7/fe6d944d/chat
+https://heinejan.pythonanywhere.com/studienberater/max_mueller/chat
 
     type_id="c48a13d7",
     user_id="fe6d944d",
+        user_id="max_mueller",
+    type_name="Studienberater",
 
 
 #### If something doesn't work as expected
